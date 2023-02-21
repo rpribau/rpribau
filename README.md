@@ -7,7 +7,7 @@
       
  Current Projects:
  
- - Proyecto KIA (SpaceMakers=
+ - Proyecto KIA (SpaceMakers)
 
 <!---
 rpribau/rpribau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
