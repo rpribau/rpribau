@@ -8,4 +8,6 @@ I'm a Roberto from Monterrey, Mexico. I'm currently studying B.S in Data Science
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpribau&show_icons=true)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpribau&show_icons=true&locale=en&layout=compact" alt="rpribau" /></p>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rpribau)  
